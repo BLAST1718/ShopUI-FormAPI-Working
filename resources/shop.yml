@@ -38,7 +38,7 @@ shop: # if you want the shop to have a custom name you must add the options in t
     Name: "Weapons / Tools:textures/items/stone_sword" #Can use Custom Colors in the Names using the "§" Symbol
     Sub:
       0:
-        Name: "Swords:textures/items/stone_sword"
+        Name: "Kits:textures/items/diamond_sword"
         Items:
           - "268:0:1:250:0:Default:textures/items/wood_sword"
           - "272:0:1:500:0:Default:textures/items/stone_sword"
